@@ -2,6 +2,8 @@
 
 > 音乐播放器
 
+<p>一款强大的音乐APP，从QQ音乐直接获取数据</p>
+
 ## Build Setup
 
 ``` bash
